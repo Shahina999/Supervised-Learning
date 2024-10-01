@@ -1,0 +1,1 @@
+I have learned and developed expertise in applying linear and logistic regression models, understanding their fundamental concepts, and utilizing them for simple predictive analysis in real-world scenarios
